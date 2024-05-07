@@ -82,5 +82,3 @@ For balance enquiry PRESS 9
         cursor2.execute(sql_q1,sender)
     
     mydata.commit()
-
-do_transactions()
